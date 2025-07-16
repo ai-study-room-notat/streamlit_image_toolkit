@@ -1,0 +1,2 @@
+# streamlit_image_toolkit
+Streamlit製画像ユーティリティ：ブラウザでリサイズ・カラー数計測・減色を手軽に
