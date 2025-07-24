@@ -1,0 +1,6 @@
+streamlit
+pillow
+numpy
+matplotlib
+scikit-learn
+scikit-image
